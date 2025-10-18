@@ -1,0 +1,16 @@
+langchain
+langsmith
+langgraph
+
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-anthropic
+langchain-google-genai
+
+
+python-dotenv
+transformers
+openai
+google-genai
+huggingface-hub
